@@ -17,4 +17,6 @@ https://ibramelias.github.io/PwGenerator/
 
 
 ## Screenshot.
-![](assets/img/Screen%20Shot%202020-11-22%20at%9.10.43%20PM.png)
+![](assets/img/Screen%20Shot%202020-11-22%20at%209.10.43%20PM.png)
+
+
