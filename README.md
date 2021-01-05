@@ -1,5 +1,5 @@
 # PwGenerator
-JavaScript Homework assignment 
+Get very uniqe and trusted password for your accounts. 
 
 ## Runnig Tests
 
